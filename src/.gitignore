@@ -1,0 +1,18 @@
+# Arquivos compilados
+/bin/
+*.class
+*.jar
+
+# Logs e temporários
+*.log
+*.tmp
+
+# Configurações de IDE
+.idea/
+.vscode/
+*.iml
+
+# Arquivos do sistema
+.DS_Store
+Thumbs.db
+
